@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="land_fragment_width">0dp</dimen>
+    <dimen name="fragment_widgets_margin">8dp</dimen>
+    <dimen name="text_size">24sp</dimen>
+</resources>

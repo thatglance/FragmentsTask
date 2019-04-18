@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentsTask</string>
+    <string name="fragment_a_label">FragmentA</string>
+    <string name="fragment_b_label">FragmentB</string>
+    <string name="button_name">Button</string>
+    <string name="number_of_clicks_label">Number of clicks:</string>
+    <string name="clicks_number"> </string>
+</resources>
